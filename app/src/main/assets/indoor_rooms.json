@@ -1,0 +1,20 @@
+{
+  "MAIN_GATE": {
+    "x": 0,
+    "y": 0,
+    "floor": 0,
+    "heading": 0
+  },
+  "ROOM_101": {
+    "x": 12,
+    "y": 6,
+    "floor": 1,
+    "heading": 90
+  },
+  "ROOM_102": {
+    "x": 22,
+    "y": 6,
+    "floor": 1,
+    "heading": 90
+  }
+}

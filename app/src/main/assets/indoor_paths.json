@@ -1,0 +1,4 @@
+[
+  { "from": "MAIN_GATE", "to": "ROOM_101", "distance": 13.4 },
+  { "from": "ROOM_101", "to": "ROOM_102", "distance": 10.0 }
+]
